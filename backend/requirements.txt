@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+httpx
+opencv-python-headless
+tensorflow
+numpy
+pillow
+shapely
+python-multipart
+scikit-image
